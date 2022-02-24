@@ -1,0 +1,83 @@
+#URLs in grey list
+#Don't bother with the http:// or the www
+
+#The greyurllist is for partly unblocking PART of a site
+#The greysitelist is for partly unblocking ALL of a site
+
+#The 'grey' lists override the 'banned' lists.
+#The 'exception' lists override the 'banned' lists also.
+#The difference is that the 'exception' lists completely switch
+#off *all* other filtering for the match.  'grey' lists only
+#stop the URL filtering and allow the normal filtering to work.
+
+#An example of grey list use is when in Blanket Block (whitelist)
+#mode and you want to allow some sites but still filter as normal
+#on their content
+
+#Another example of grey list use is when you ban a site but want
+#to allow part of it.
+
+#To include additional files in this list use this example:
+#.Include</etc/e2guardian/anotherurllist>
+
+#You can have multiple .Includes.
+
+#List other URLs to block:
+
+#members.home.net/nice
+
+
+########################################
+################ elias #################
+########################################
+
+colab.research.google.com/drive
+colab.research.google.com/generate-authorship-tag
+colab.research.google.com/img
+colab.research.google.com/page-config
+colab.research.google.com/static
+colab.research.google.com/v2
+cse.google.com/cse.js
+facebook.com/messages
+facebook.com/messaging 
+facebook.com/messenger/diode 
+facebook.com/user_cookie_prompt
+google.com/cse/cse.js 
+google.com/cse/element
+google.com/cse/static
+google.com/search 
+google.com/url 
+vimeo.com/embed-redirect
+youtube.com/account_notifications
+youtube.com/api
+youtube.com/c/
+youtube.com/channel
+youtube.com/comment_service_ajax 
+youtube.com/embed
+youtube.com/favicon
+youtube.com/generate_204
+youtube.com/getDatasyncIdsEndpoint
+youtube.com/live_chat
+youtube.com/live_chat_replay
+youtube.com/logout
+youtube.com/manifest.webmanifest 
+youtube.com/playlist
+youtube.com/profile
+youtube.com/redirect 
+youtube.com/s/desktop 
+youtube.com/s/gaming
+youtube.com/s/player 
+youtube.com/signin
+youtube.com/upload
+youtube.com/user
+youtube.com/watch
+youtube.com/youtubei/v1/account
+youtube.com/youtubei/v1/browse
+youtube.com/youtubei/v1/channel
+youtube.com/youtubei/v1/comment
+youtube.com/youtubei/v1/guide
+youtube.com/youtubei/v1/like
+youtube.com/youtubei/v1/live_chat
+youtube.com/youtubei/v1/notification
+youtube.com/youtubei/v1/player
+

@@ -1,0 +1,72 @@
+# 0.0.0.0 ads.ak.facebook.com
+# 0.0.0.0 an.facebook.com
+# 0.0.0.0 pixel.facebook.com
+# 0.0.0.0 creative.ak.facebook.com
+# 0.0.0.0 sonar-iad.xx.fbcdn.net
+
+# 0.0.0.0 adservice.google.com
+# 0.0.0.0 adservices.google.com
+# 0.0.0.0 ads.google.com
+# 0.0.0.0 www-google-analytics.l.google.com
+# 0.0.0.0 video-stats.video.google.com
+# 0.0.0.0 ssl-google-analytics.l.google.com
+# 0.0.0.0 smartlock.google.com
+# 0.0.0.0 s0-2mdn-net.l.google.com
+# 0.0.0.0 partnerad.l.google.com
+# 0.0.0.0 pagead-googlehosted.l.google.com
+# 0.0.0.0 marketingplatform.google.com
+# 0.0.0.0 mail-ads.google.com
+# 0.0.0.0 fundingchoices.google.com
+# 0.0.0.0 crashlytics2.l.google.com
+# 0.0.0.0 analytics.google.com
+# 0.0.0.0 ampcid.google.com
+# 0.0.0.0 pagead.l.google.com
+# 0.0.0.0 www-googletagmanager.l.google.com
+# 0.0.0.0 pagead-tpc.l.google.com
+
+# amazon AWS
+# 0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
+# 0.0.0.0 amazonwebservicesinc.tt.omtrdc.net
+# 0.0.0.0 analytics.console.aws.a2z.com
+# 0.0.0.0 pw.analytics.console.aws.a2z.com
+# 0.0.0.0 pr.analytics.console.aws.a2z.com
+# 0.0.0.0 prod.pr.analytics.console.aws.a2z.com
+# 0.0.0.0 prod.pw.analytics.console.aws.a2z.com
+# 0.0.0.0 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
+# 0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
+# 0.0.0.0 us-east-1.prod.pw.analytics.console.aws.a2z.com
+# 0.0.0.0 us-east-2.prod.pr.analytics.console.aws.a2z.com
+# 0.0.0.0 us-west-2.prod.pr.analytics.console.aws.a2z.com
+
+# amazon ads:
+# 0.0.0.0 device-metrics-us-2.amazon.com
+# 0.0.0.0 device-metrics-us.amazon.com
+# 0.0.0.0 aax-us-iad.amazon.com
+# 0.0.0.0 aax-eu-dub.amazon.com
+# 0.0.0.0 aan.amazon.com
+# 0.0.0.0 aan.amazon.co.uk
+# 0.0.0.0 mads.amazon.com
+# 0.0.0.0 advertising.amazon.co.uk
+# 0.0.0.0 uedata.amazon.com
+# 0.0.0.0 fls-cn.amazon.com
+# 0.0.0.0 fls-fe.amazon.com
+# 0.0.0.0 fls-eu.amazon.com
+# 0.0.0.0 fls-na.amazon.com
+# 0.0.0.0 fls-eu.amazon.co.uk
+# 0.0.0.0 rcm.amazon.com
+# 0.0.0.0 rcm-images.amazon.com
+
+0.0.0.0 bit.ly
+0.0.0.0 amzn.to
+
+0.0.0.0 skypicker-api.infinario.com
+0.0.0.0 api.infinario.com
+0.0.0.0 sygic-api.infinario.com
+
+0.0.0.0 dot.discovery.org
+0.0.0.0 img.discovery.com
+
+0.0.0.0 p.reuters.com
+
+0.0.0.0 builder-assets.unbounce.com
+

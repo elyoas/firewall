@@ -1,0 +1,555 @@
+# BANNEDPHRASELIST - INSTRUCTIONS FOR USE
+#
+# To block any page with the word "sex".
+# < sex >
+#
+# To block any page with words that contain the string "sex". (ie. sexual)
+# <sex>
+#
+# To block any page with the string "sex magazine".
+# <sex magazine>
+#
+# To block any page containing the words/strings "sex" and "fetish".
+# <sex>,<fetish>
+#
+# < test> will match any word with the string 'test' at the beginning
+# <test > will match any word with the string 'test' at the end
+# <test> will match any word with the string 'test' at any point in the word
+# < test > will match only the word 'test'
+# <this is a test phrase> will match that exact phrase
+# <test>,<secondtest> will match if both words are found in the page
+# A combination of the above can also be used eg < test>,<secondtest>
+#
+#
+# Extra phrase-list files to include
+# .Include</etc/e2guardian/testphrase>
+#
+#
+# All phrases need to be within < and > to work, othewise they will be
+# ignored.
+
+# MORE EXAMPLE LISTS CAN BE DOWNLOADED FROM DANSGUARDIAN.ORG
+
+# Phrase Exceptions are no longer listed in this file, they are now
+# listed in the exceptionphraselist file.
+#
+
+
+
+
+########################################
+################ elias #################
+########################################
+
+< anal >
+< android apk >
+< android application download >
+< apk download >
+< bdsm >
+< cunt >
+< dildo >
+< dildo>
+< download apk >
+< hentai >
+< horny >
+< milf >
+< pussy >
+< slut >
+< twerk >
+< vagina >
+< whore >
+< xnxx >
+< xnxx>
+< رومنسي >
+< زب >
+< ساخن >
+< سكس >
+< سكسي >
+< كس >
+< مص >
+<+ 18>
+<+ ١٨>
+<+18>
+<+١٨>
+<A片>
+<Lingerie Lowdown>
+<MTV Shores>
+<adult expedition>
+<adult expo>
+<amateur hot>
+<anal plug>
+<anal sex>
+<antonio sul>
+<arse hole>
+<arsehole>
+<asian sex>
+<ass hole>
+<asshole>
+<avn expedition>
+<avn expo>
+<beastiality>
+<big ass>
+<big breasts>
+<big butt>
+<big tits>
+<bikini haul>
+<bikini model>
+<blowjob>
+<body paint>
+<bodypaint>
+<bondage>,<sex>
+<boob slip>
+<boobs>
+<boys night out>
+<brazzer>
+<catwalk>
+<crazy yoga>
+<cum shot>
+<cumshot>
+<deep throat>
+<deepthroat>
+<derriere>
+<derrière>
+<digital photobook>
+<digitale erotique>
+<digitale érotique>
+<dildo >
+<doggy style>
+<doggystyle>
+<double penetration>
+<download torrents>
+<dutch girls>
+<dutchgirls>
+<erotique de modeles>
+<erotique>
+<fashion film>
+<fashion magnet>
+<fashion model>
+<fashion nova>
+<fashion show>
+<feminins sensuels>
+<fetish>
+<front magazine>
+<fuck her>
+<fuck him>
+<fuck me>
+<fuck my>
+<fullorðinn>
+<féminins sensuels>
+<gang bang>
+<gangbang>
+<girl crush>
+<girl flashing>
+<girls night out>
+<gymnastic girl>
+<gymnastics girl>
+<haily reed>
+<haley reed>
+<hand expression>
+<hardcore>
+<having sex>
+<hook up>
+<hooker>,<sex>
+<hookup>
+<hot ass>
+<hot bikini>
+<hot butt>
+<hot girl>
+<hot mom>
+<hot mother>
+<hot movie>
+<hot mtv>
+<hot selfies>
+<hot selfy>
+<hot split>
+<hot stretch>
+<hot tiktok>
+<hot tits>
+<hot video>
+<hot wife>
+<hot yoga>
+<ibiza>,<dance>
+<ibiza>,<dancing>
+<ibiza>,<girl>
+<ibiza>,<hot>
+<japan bus>
+<japan music>
+<jersey shore>
+<khiêu dâm>
+<klám myndbönd>
+<klám>
+<kynlíf myndbönd>
+<kynlíf>
+<lick my pussy>
+<lingerie tryon>
+<masturbate>
+<masturbating>
+<mature milf>
+<mature mom>
+<mature mother>
+<mature wife>
+<mature woman>
+<mayfair magazine>
+<mobile porn>
+<mtv asia>
+<mtv brasil>
+<mtv brazil>
+<mtv celebrity>
+<mtv hot>
+<mtv reality>
+<mtv uk>
+<mtvla>
+<mtvuk>
+<nakinn>
+<naturism>
+<naturist>
+<naughty america>
+<naughtyamerica>
+<nicole aniston>
+<nudité>
+<nus féminins sensuels>
+<oral sex>
+<panties>
+<peeing girl>
+<peeing woman>
+<photographie de nu>
+<photographique érotique>
+<photos de nus>
+<photos erotiques>
+<photos érotiques>
+<pin up girl>
+<pin up model>
+<pinup girl>
+<pinup model>
+<piratebay>
+<pissing girl>
+<pissing woman>
+<porn expo>
+<porn gifs>
+<porn photos>
+<porn star>
+<porn video>
+<porn videos>
+<pornography photo>
+<pornography photos>
+<pornography video>
+<pornography videos>
+<pornstar>
+<pussy lick>
+<rachel starr>
+<reality show>
+<relaxing music>,<japan>
+<relaxing music>,<sex>
+<russian girls>
+<russiangirls>
+<see through dress>
+<see through leggings>
+<see through model>
+<see through swimsuit>
+<see through underwear>
+<sex photo>
+<sex photos>
+<sex scene>
+<sex video>
+<sex videos>
+<sextoy>
+<sexual intercourse>
+<sexualité>
+<sexy amateur>
+<sexy arse>
+<sexy ass>
+<sexy girls>
+<sexy photo>
+<sexy poster>
+<sexy selfies>
+<sexy selfy>
+<sexy stretch>
+<sexy women>
+<sexy yoga>
+<spandex>,<sex>
+<squat workout>
+<strapon>
+<stunning photo>
+<swedish girls>
+<swedishgirls>
+<swimsuit haul>
+<teen ass>
+<teen fuck>
+<teen hardcore>
+<tight ass>
+<tik tok>,<hot>
+<tiktok hot>
+<tiktok video>
+<tinder>
+<titties>
+<top less>
+<topless girl>
+<topless teen>
+<topless woman>
+<torrent download>
+<torrent website>
+<transparent dress>
+<transparent linger>
+<transparent night gown>
+<transparent nightgown>
+<transparent underwear>
+<try on haul>
+<twerking>
+<tình dục>
+<underwear try on>
+<underwear tryon>
+<voluptuous magazine>
+<white ass>
+<wife kiss>
+<woman flashing>
+<workout squat>
+<xnxx >
+<xxx clip>
+<xxx file>
+<xxx imag>
+<xxx mov>
+<xxx phot>
+<xxx record>
+<xxx tape>
+<xxx vid>
+<yoga hot>
+<yoga split>
+<yoga stretch>
+<youtube - مص>
+<youtube مص>
+<youtube+مص>
+<érotique de modèles>
+<érotique>
+<érotisme>
+<для взрослых>
+<обнаженный>
+<порно видео>
+<порно>
+<порнография>
+<секс видео>
+<секс>
+<մեծահասակ>
+<մերկ>
+<պոռնո տեսանյութեր>
+<պոռնո>
+<պոռնոգրաֆիա>
+<սեռ>
+<սեռական տեսանյութեր>
+<מְבוּגָר>
+<מִין>
+<סרטוני פורנו>
+<סרטי סקס>
+<עֵירוֹם>
+<פּוֹרנוֹגרַפִיָה>
+<פורנו>
+<أبزاز بنات>
+<أبزاز>
+<أفلام جنسية>
+<أفلام سكس>
+<أفلام نيك>
+<أنبوب الجنس>
+<أنطونيو سليمان>
+<أوضاع الجماع>
+<أوضاع الجنس>
+<أوضاع جنسية>
+<إباحي>
+<اباحي>
+<ابزاز بنات>
+<ابزاز>
+<اثارة>
+<افلام اباحية>
+<افلام جنسية>
+<افلام سكس عربي و اجنبي مترجم>
+<افلام سكس عربي>
+<افلام سكس>
+<افلام نيك>
+<الافلام الاباحية>
+<الجنس العربي>
+<الزب>
+<السكسى>
+<الشفايف>
+<الفيديو الإباحية>
+<القضيب>
+<النشوة الجنسية>
+<انستغرام>
+<انستقرام>
+<انستكرام>
+<انطونيو سليمان>
+<اوضاع الجماع>
+<اوضاع الجنس>
+<اوضاع جنسية>
+<بعص>
+<بوس >
+<بوس ساخن>
+<تخون>
+<تعليم مص >
+<تقبيل فموي>
+<تقبيل>
+<تقفيش>
+<تيك توك>
+<ثدي>
+<جنس>
+<جنسي>
+<جنسية>
+<خيانة>
+<رضع شفايف>
+<رقص ساخن>
+<رقص شرقي>
+<رقص نار>
+<رومانسي>
+<زب نار>
+<زب>
+<زوجة>
+<ساخنة>
+<سكس اجنبي>
+<سكس جماعي عربي نيك حار رائع>
+<سكس جماعي عربي>
+<سكس جماعي>
+<سكس رقص>
+<سكس عربي>
+<سكس مثير>
+<سكسي مثير>
+<سكسي>
+<شاهد قبل الحذف>
+<شرموطة>
+<طيز>
+<عارضات ازياء>
+<عاري>
+<عارية>
+<عرض أزياء>
+<فاحش>
+<فحش>
+<فلم سكس مثير>
+<فلم سكس>
+<فوق ١٨>
+<فيديوهات>
+<قحبة>
+<قضيب اصطناعي>
+<قضيب صناعي>
+<كبار فقط>
+<كس>
+<لحس>
+<لقاء ساخن>
+<لقطات مثيره>
+<للكبار فقط>
+<للكبار>
+<مؤخرة>
+<مايا خليفة>
+<متعة جنسية>
+<متعة>
+<مثير>
+<مثيرة>
+<مداعب>
+<مداعبة الصدر>
+<مداعبة ثدي>
+<مداعبة ساخنة>
+<مداعبة>
+<مشهد ساخن>
+<مص >
+<مص الشفه>
+<مص القضيب>
+<مص المهبل>
+<مص رضع>
+<مص ساخن>
+<مص شفايف>
+<مص قضيب>
+<مص نار>
+<مضاجع>
+<مقاطع سكس>
+<ملابس داخلية>
+<ملابس شفافة>
+<ممارسة الجنس>
+<ممارسة جنس>
+<ممحون>
+<ممحونة>
+<ممحونه>
+<نار>
+<نارر>
+<نشوة جنسية>
+<نيج >
+<نيك >
+<نيك حار>
+<هزة الجماع>
+<وضعيات الجماع>
+<وضعيات للجماع>
+<يخون>
+<অশ্লীল ভিডিও>
+<অশ্লীল রচনা>
+<অশ্লীল রচনা>
+<নগ্ন>
+<প্রাপ্তবয়স্ক>
+<লিঙ্গ>
+<সেক্স ভিডিও>
+<శృంగార>
+<సెక్స్>
+<ผู้ใหญ่>
+<วิดีโอเซ็กซ์>
+<วิดีโอโป๊>
+<สื่อลามก>
+<เปลือยกาย>
+<เพศ>
+<アダルト>
+<エロチック>
+<クラブ>
+<セックス>
+<セックスビデオ>
+<ポルノ>
+<ポルノビデオ>
+<乳房>
+<他妈的>
+<免費A片>
+<吹箫>
+<女の子>
+<女の子のパーティー>
+<山雀>
+<性交>
+<性交>
+<性别>
+<性感的>
+<性欲>
+<性爱的>
+<成人>
+<春宮>
+<春宮>
+<色情>
+<色情明星>
+<色情电影>
+<鸡巴>
+<黄色书刊>
+<黄色文学的>
+<나체>
+<누드>
+<성인>
+<섹스 비디오>
+<섹스>
+<야동>
+<적나라한>
+<춘화>
+<포르노 비디오>
+<포르노>
+<항문>
+
+
+#listcategory: "Banned Phrases"
+
+# The following banned phraselists enable Website Content Labeling systems.  These are enabled by default, but may also be activated using phraselists.  
+
+#.Include</usr/local/etc/e2guardian/lists/phraselists/safelabel/banned> # elias
+
+#.Include</usr/local/etc/e2guardian/lists/phraselists/rta/banned_portuguese>
+#.Include</usr/local/etc/e2guardian/lists/phraselists/rta/banned> # new line added by elias
+
+# The following banned phraselists are included in the default DG distribution.
+
+#.Include</usr/local/etc/e2guardian/lists/phraselists/pornography/banned> # elias
+#.Include</usr/local/etc/e2guardian/lists/phraselists/pornography/banned_portuguese> # elias
+
+#.Include</usr/local/etc/e2guardian/lists/phraselists/illegaldrugs/banned>
+
+#.Include</usr/local/etc/e2guardian/lists/phraselists/gambling/banned>
+##.Include</usr/local/etc/e2guardian/lists/phraselists/gambling/banned_portuguese>
+
+#.Include</usr/local/etc/e2guardian/lists/phraselists/googlesearches/banned> # elias
+
+#.Include</usr/local/etc/e2guardian/lists/phraselists/ukenglish/pornography/weighted> # moved to [weightedphraselist]
+
